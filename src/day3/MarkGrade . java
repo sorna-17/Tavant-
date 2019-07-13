@@ -1,0 +1,26 @@
+package day3;
+public class MarkGrade {
+	public String markGrad(int mark) {
+	  int ch = (mark)/10;
+		switch(ch) {
+		case 10:
+		case 9:
+			String grade_a = "A";
+			return grade_a;
+		case 8:
+			String grade_b = "B";
+			return grade_b;
+		case 7:
+			String grade_c = "C";
+			return grade_c;
+		default :
+			String grade_d = "D";
+			return grade_d;
+			
+			
+		
+		}
+		
+		
+	}
+}
