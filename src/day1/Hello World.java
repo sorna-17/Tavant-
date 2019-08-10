@@ -1,6 +1,6 @@
 package day1;
 
-public class Hello_World {
+public class HelloWorld {
     
 	public String Get_Message(String msg) {
     	
