@@ -1,7 +1,7 @@
 package day2;
 import static org.junit.Assert.*;
 import org.junit.Test;
-public class ConvertToCelsius_Test {
+public class FarenheitToCelsius_Test {
 
 	@Test
 	public void Celsiustest() {
